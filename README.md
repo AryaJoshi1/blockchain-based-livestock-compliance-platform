@@ -72,8 +72,6 @@ livestock-compliance-platform/
 │
 ├── docs/
 │
-├── screenshots/
-│
 ├── README.md
 └── LICENSE
 ```
