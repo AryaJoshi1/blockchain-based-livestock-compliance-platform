@@ -265,8 +265,3 @@ This project is licensed under the MIT License.
 
 **Arya Joshi**
 
-B.Tech Computer Science Engineering (AI & Data Science)
-
-Interested in Artificial Intelligence, Machine Learning, Sports Analytics, Blockchain, and Full-Stack Development.
-
-GitHub: https://github.com/AryaJoshi1
